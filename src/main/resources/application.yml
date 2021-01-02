@@ -1,0 +1,11 @@
+# https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+# ======================================================================================================================
+# = LOGGING
+# ======================================================================================================================
+logging:
+  level:
+    root: WARN
+    springfox: INFO
+    com:
+      github:
+        ronlievens: TRACE
