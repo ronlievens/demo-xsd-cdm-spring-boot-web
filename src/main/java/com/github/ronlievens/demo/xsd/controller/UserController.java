@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.time.OffsetDateTime;
 
-@RequestMapping("/api/user")
+@RequestMapping("/api/v1/user")
 @Validated
 @RestController
 public class UserController {

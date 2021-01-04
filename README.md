@@ -7,9 +7,12 @@ Demo code borrowed from:
 
 # Links
 
-- http://127.0.0.1:8080/swagger-resources/
-- http://127.0.0.1:8080/v3/api-docs
-- http://127.0.0.1:8080/swagger-ui/
+- [Swagger UI](http://127.0.0.1:8080/swagger-ui/)
+- [OpenAPI Definition](http://127.0.0.1:8080/v3/api-docs)
+- [Spring Actuator](http://127.0.0.1:8080/actuator)
+- [Spring Actuator Prometheus scraper page](http://127.0.0.1:8080/actuator/prometheus)
+
+_note: Spring Actuator endpoints are not in the swagger docs!_
 
 # Show dependency tree
 
