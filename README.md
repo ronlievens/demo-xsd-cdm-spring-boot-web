@@ -1,12 +1,12 @@
 Demo code borrowed from:
-
 - https://www.baeldung.com/jaxb
 - https://stackify.com/java-xml-jackson/
 - http://zetcode.com/springboot/restxml/
 - https://github.com/Addicticks/jTexttime/wiki/JAXB-type-adapter-classes-for-java.time
+- https://petstore.swagger.io/
+- https://github.com/leefaus/soa-petstore
 
 # Links
-
 - [Swagger UI](http://127.0.0.1:8080/swagger-ui/)
 - [OpenAPI Definition](http://127.0.0.1:8080/v3/api-docs)
 - [Spring Actuator](http://127.0.0.1:8080/actuator)
